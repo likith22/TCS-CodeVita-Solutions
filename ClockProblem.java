@@ -1,3 +1,6 @@
+/*
+
+*/
 package tcsCodeVita;
 import java.util.Scanner;
 public class ClockProblem {
